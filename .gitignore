@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+data/*
+!data/LPEM/
+data/LPEM/*
+!data/LPEM/dataset#14.mat
+results/
+*.pth
+.venv/
